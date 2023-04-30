@@ -5,7 +5,7 @@ This is a quick repository for citations for BraiNY Journal Club May 2023.
 Finisguerra et al. Dissociating embodiment and emotional reactivity in motor responses to artworks. *Cognition* (2021). https://pubmed.ncbi.nlm.nih.gov/33761410/ 
 
 ## Additional sources:
-- Slides 8 and 9: 
+- Slides 8 and 9: Cross, The Golden Isles. https://museoteca.com/r/en/work/900/cross_henri_edmond/the_golden_isles/!/.
 - Slide 10: Van Gogh, Doctor Gachet's Garden in Auvers. https://en.wikipedia.org/wiki/Doctor_Gachet%27s_Garden_in_Auvers
 - Slide 12: Two illustrations with separate citations.
   - Extensor carpi radialis illustration from: https://www.researchgate.net/publication/339637995_Acquisition_Protocol_and_Comparison_of_Myoelectric_Signals_of_the_Muscles_Innervated_by_the_Ulnar_Radial_and_Medial_Nerves_for_a_Hand_Orthoses/figures?lo=1.

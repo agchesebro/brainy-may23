@@ -14,4 +14,6 @@ Finisguerra et al. Dissociating embodiment and emotional reactivity in motor res
   - TMS localization of FDI from Meincke et al. (2018). https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201277. 
   - Homunculus illustration from Gordon et al. (2023). https://www.nature.com/articles/s41586-023-05964-2 
 - Slide 30: Sculpture pictured from https://www.nga.gov/features/slideshows/marble-sculpture-from-france.html.
-- Slide 31: Van Gogh exhibit image: https://uncoverla.com/2022/02/24/interactive-art-exhibitions-in-la/.
+- Slide 31: Two illustrations with separate citations.
+  - Van Gogh exhibit image: https://uncoverla.com/2022/02/24/interactive-art-exhibitions-in-la/.
+  - Gallery: https://brighamyen.com/2016/03/14/huge-hauser-wirth-schimmel-gallery-opens-downtown-la.
